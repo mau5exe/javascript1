@@ -1,3 +1,5 @@
+/* A la entrega le falta una funcion, para calcular costo del producto y del envio, como bien mencione en la plataforma, estoy muy complicado con los tiempos para la practica, por ende me esta costando mas de lo planeado, no es excusa pero lo comento para que puedan estar al tanto */
+
 const nameUs = prompt("Ingrese su Nombre");
 alert("Bienvenido " + nameUs);
 alert(
@@ -105,13 +107,9 @@ switch (continuar) {
       default:
         alert("No elegiste una opcion valida");
         break;
-        
     }
-
-       alert("Tu pedido fue aceptado y ya se encuentra en preaparacion. Muchas Gracias");
+       alert("TU PEDIDO FUE RECIBIDO CON EXITO Y YA SE ENCUENTRA EN PREPARACION. MUCHAS GRACIAS");
     }   
 
 }
-/*for (let i = 0; (i = 6); i++) {
-  let ingredientes = numero + i;
-}*/
+

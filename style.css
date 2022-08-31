@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(./img/ham.jpg );
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 90%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    font-size: 5rem;
+    margin-top: 6px;
+    text-align: center;
+    color: orangered;
+    text-decoration:dotted;
+    font-family: 'Passion One', cursive;
+}
